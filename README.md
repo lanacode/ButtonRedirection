@@ -3,8 +3,8 @@
 Bem-vindo ao repositório do *Button redirection*! Este projeto foi criado durante uma aula para aperfeiçoar os conhecimentos de Javascript, Html e Css.
 
 <img src="/assets/button (1).png">
-<img src="/assets/button (2).png">
 <img src="/assets/button (3).png">
+<img src="/assets/button (2).png">
 
 ## 📋 Descrição
 
